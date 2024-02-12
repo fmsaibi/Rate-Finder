@@ -23,4 +23,4 @@
 
 **Screen Snipping**
 
-![Alt Text](/Image/image_1.png)
+![Alt Text](/Image/Image_1.png)
